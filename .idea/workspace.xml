@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0660ea82-977f-4075-be34-76bb602498ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/skel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/HAU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/ha5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/hau9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/home1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/white.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Student.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +25,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chesk\School_Management_System\src\main\webapp" />
       <recent name="C:\Users\Moira\School_Management_System\src\main\webapp" />
     </key>
   </component>
@@ -66,6 +39,7 @@
       <updated>1637369899594</updated>
       <workItem from="1637369907261" duration="33000" />
       <workItem from="1637375119418" duration="102000" />
+      <workItem from="1637375800916" duration="82000" />
     </task>
     <servers />
   </component>
@@ -82,5 +56,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
