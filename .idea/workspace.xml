@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0660ea82-977f-4075-be34-76bb602498ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Student.html" afterDir="false" />
-    </list>
+    <list default="true" id="0660ea82-977f-4075-be34-76bb602498ea" name="Changes" comment="update frontend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +37,30 @@
       <updated>1637369899594</updated>
       <workItem from="1637369907261" duration="33000" />
       <workItem from="1637375119418" duration="102000" />
-      <workItem from="1637375800916" duration="82000" />
+      <workItem from="1637375800916" duration="421000" />
     </task>
+    <task id="LOCAL-00001" summary="add student">
+      <created>1637375928698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637375928698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add header">
+      <created>1637376079523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637376079523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update frontend">
+      <created>1637376167743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637376167743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,5 +77,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add student" />
+    <MESSAGE value="add header" />
+    <MESSAGE value="update frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="update frontend" />
   </component>
 </project>
