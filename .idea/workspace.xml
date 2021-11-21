@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0660ea82-977f-4075-be34-76bb602498ea" name="Changes" comment="add AdminLogin">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/adminHome.jsp" afterDir="false" />
+    <list default="true" id="0660ea82-977f-4075-be34-76bb602498ea" name="Changes" comment="add AdminHome">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/addNewStudent.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637491416982</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add AdminHome">
+      <created>1637492071012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637492071012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <MESSAGE value="add AdminLogin" />
-    <option name="LAST_COMMIT_MESSAGE" value="add AdminLogin" />
+    <MESSAGE value="add AdminHome" />
+    <option name="LAST_COMMIT_MESSAGE" value="add AdminHome" />
   </component>
 </project>
