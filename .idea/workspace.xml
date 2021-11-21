@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0660ea82-977f-4075-be34-76bb602498ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Project/ConnectionProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +18,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21A36NpfJB8gaKg2RAu6VRzxyTf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,10 +27,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\63917\Desktop\School System - Copy\src\main\java\Project" />
       <recent name="C:\Users\chesk\School_Management_System\src\main\webapp" />
       <recent name="C:\Users\Moira\School_Management_System\src\main\webapp" />
     </key>
@@ -40,6 +48,7 @@
       <workItem from="1637369907261" duration="33000" />
       <workItem from="1637375119418" duration="102000" />
       <workItem from="1637375800916" duration="82000" />
+      <workItem from="1637490937199" duration="180000" />
     </task>
     <servers />
   </component>
